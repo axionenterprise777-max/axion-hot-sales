@@ -1,0 +1,1 @@
+{"name": "axion-hot-sales", "version": "1.0.0", "description": "Axion Hot Sales - Bot de Modelos IA", "main": "index.html", "scripts": {"start": "npx serve . -p 3000", "dev": "npx serve . -p 3000 -l", "build": "echo 'Build complete'"}, "keywords": ["bot", "ai", "models", "sales", "automation"], "author": "Axion", "license": "MIT", "devDependencies": {"serve": "^14.2.1"}}
